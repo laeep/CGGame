@@ -1,0 +1,5 @@
+delete FROM [CG_d_user_info]
+delete FROM [CG_d_point_rec]
+delete FROM [CG_d_user_desk]
+delete FROM [CG_d_addPoint_info]
+delete FROM [CG_d_log_info]

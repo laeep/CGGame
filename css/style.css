@@ -1,0 +1,19 @@
+@charset "utf-8";
+/* CSS Document */
+* { margin:0; list-style:none; padding:0;}
+body { background:#999;}
+.wrap { width:1000px; min-height:100%; margin:0 auto; background:#fff; overflow:hidden; padding:0 10px; padding-bottom:100px; box-sizing:border-box;}
+
+.login-main { width:500px; margin:100px auto;}
+.login-tit { height:40px; font-size:16px; border-bottom:1px solid #EAE5E5; margin-bottom:10px; font-weight:600;}
+.login-tit a { margin:0 8px 0 5px; color:#D1CBCB;}
+.login-tit a:hover { color:#169BD5;}
+.login-tit a.active { color:#169BD5;}
+
+.txt1 { width:240px; height:28px; line-height:28px; border:1px solid #e9e9e9; padding: 0 5px;}
+.txt2 { width:252px; height:28px; line-height:28px; border:1px solid #e9e9e9; padding: 0 5px;}
+input.btn { padding:5px 20px; display:inline-block; border-radius:5px; background:#169BD5; color:#fff; border:none; cursor:pointer;}
+a.findpsd { margin-left:40px; margin-right:20px;}
+
+.fr { float:right; display:block;}
+a.black { color:#333;}
